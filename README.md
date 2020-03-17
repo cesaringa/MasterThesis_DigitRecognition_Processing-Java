@@ -1,2 +1,6 @@
 # MasterThesis_DigitRecognition_Processing-Java
-Digit Recognition based on Histogram of Oriented Gradients developed in Processing platform and coded with Java
+This master thesis introduces an approach to digit recognition based on the
+Histogram of Oriented Gradients method and cosine similarity. The work
+describes a prototype system that implements the introduced approach and
+illustrates it for the case of car license plate digit recognition. The recognition
+accuracy is 93%.
