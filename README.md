@@ -1,3 +1,4 @@
+# Master's Thesis
 # An Approach to Digit Recognition Based on Histogram of Oriented Gradients
 This master thesis introduces an approach to digit recognition based on the
 Histogram of Oriented Gradients method and cosine similarity. The work
